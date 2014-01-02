@@ -1,0 +1,2 @@
+m1 is the new text file
+one more line entered in this m1.txt
