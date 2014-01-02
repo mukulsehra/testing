@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23" started-at="2013-08-15T14:50:16Z" finished-at="2013-08-15T14:50:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23" started-at="2013-08-15T14:50:16Z" finished-at="2013-08-15T14:50:16Z">
+      <class name="testCase_1">
+        <test-method status="PASS" signature="bforeClass()[pri:0, instance:testCase_1@1f88953]" name="bforeClass" is-config="true" duration-ms="9" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bforeClass -->
+        <test-method status="PASS" signature="bt()[pri:0, instance:testCase_1@1f88953]" name="bt" is-config="true" duration-ms="1" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="before()[pri:0, instance:testCase_1@1f88953]" name="before" is-config="true" duration-ms="0" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testClass()[pri:0, instance:testCase_1@1f88953]" name="testClass" duration-ms="6" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass -->
+        <test-method status="PASS" signature="aftrClass()[pri:0, instance:testCase_1@1f88953]" name="aftrClass" is-config="true" duration-ms="0" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrClass -->
+        <test-method status="PASS" signature="before()[pri:0, instance:testCase_1@1f88953]" name="before" is-config="true" duration-ms="0" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testClass2()[pri:0, instance:testCase_1@1f88953]" name="testClass2" duration-ms="0" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClass2 -->
+        <test-method status="PASS" signature="aftrClass()[pri:0, instance:testCase_1@1f88953]" name="aftrClass" is-config="true" duration-ms="0" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrClass -->
+        <test-method status="PASS" signature="after()[pri:0, instance:testCase_1@1f88953]" name="after" is-config="true" duration-ms="1" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="as()[pri:0, instance:testCase_1@1f88953]" name="as" is-config="true" duration-ms="0" started-at="2013-08-15T20:20:16Z" finished-at="2013-08-15T20:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- testCase_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

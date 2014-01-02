@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG Learning]">
+  <test name="Second test(failed)" preserve-order="false">
+    <classes>
+      <class name="testCase1">
+        <methods>
+          <include name="testOpenBrowser"/>
+          <include name="testCreateDBConnection"/>
+          <include name="testCloseBrowser"/>
+          <include name="testCloseDBConnection"/>
+        </methods>
+      </class>
+      <class name="testParameterization">
+        <methods>
+          <include name="testOpenBrowser"/>
+          <include name="testQuitDriver"/>
+          <include name="testCreateDBConnection"/>
+          <include name="testCloseBrowser"/>
+          <include name="testCloseDBConnection"/>
+          <include name="testIniWebDriver"/>
+        </methods>
+      </class>
+      <class name="testCase2">
+        <methods>
+          <include name="testValidteLink"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

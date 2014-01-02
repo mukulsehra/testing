@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning">
+
+
+<test name="Login test">
+    <classes>
+        <class name="testCase1" ></class>  
+    </classes>
+</test>
+
+<test name="Second test">
+    <classes>
+        <class name="testCase2" ></class>  
+    </classes>
+</test>
+
+
+
+<test name="Excel test">
+    <classes>
+        <class name="testParameterization" ></class>  
+    </classes>
+</test>
+
+
+
+
+
+</suite>

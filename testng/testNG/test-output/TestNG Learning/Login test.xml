@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Selenium-W2A" tests="1" failures="0" timestamp="3 Aug 2013 11:51:56 GMT" time="0.0050" errors="0">
+  <testcase name="testLogin" time="0.0" classname="testCase1"/>
+</testsuite>

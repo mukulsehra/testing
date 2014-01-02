@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Selenium-W2A" tests="5" failures="0" timestamp="3 Aug 2013 11:52:07 GMT" time="10.933" errors="0">
+  <testcase name="testLogin" time="0.0" classname="testParameterization"/>
+  <testcase name="testData" time="3.204" classname="testParameterization"/>
+  <testcase name="testData" time="1.905" classname="testParameterization"/>
+  <testcase name="testData" time="1.905" classname="testParameterization"/>
+  <testcase name="testData" time="3.36" classname="testParameterization"/>
+</testsuite>
