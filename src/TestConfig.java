@@ -3,7 +3,7 @@ public class TestConfig {
 
 	public static String server="smtp.mail.com";
 	public static String from = "mukul.sehra@mail.com";
-	public static String password = "mukul123";
+	public static String password = "        ";
 	public static String[] to ={"mukul.sehra@inxero.com","mukul.sehra@yahoo.com"};
 	public static String subject = "Test Report";
 	
